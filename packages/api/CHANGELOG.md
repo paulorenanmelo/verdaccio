@@ -1,5 +1,27 @@
 # @verdaccio/api
 
+## 6.0.0-6-next.19
+
+### Minor Changes
+
+- 24b9be02: refactor: improve docker image build with strict dependencies and prod build
+- b13a3fef: refactor: improve versions and dist-tag filters
+
+### Patch Changes
+
+- Updated dependencies [24b9be02]
+- Updated dependencies [e75c0a3b]
+- Updated dependencies [b13a3fef]
+  - @verdaccio/core@6.0.0-6-next.4
+  - @verdaccio/tarball@11.0.0-6-next.11
+  - @verdaccio/middleware@6.0.0-6-next.16
+  - @verdaccio/utils@6.0.0-6-next.10
+  - @verdaccio/logger@6.0.0-6-next.8
+  - @verdaccio/store@6.0.0-6-next.17
+  - @verdaccio/auth@6.0.0-6-next.16
+  - @verdaccio/config@6.0.0-6-next.12
+  - @verdaccio/hooks@6.0.0-6-next.10
+
 ## 6.0.0-6-next.18
 
 ### Patch Changes

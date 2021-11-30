@@ -1,5 +1,17 @@
 # @verdaccio/utils
 
+## 6.0.0-6-next.10
+
+### Minor Changes
+
+- 24b9be02: refactor: improve docker image build with strict dependencies and prod build
+- b13a3fef: refactor: improve versions and dist-tag filters
+
+### Patch Changes
+
+- Updated dependencies [24b9be02]
+  - @verdaccio/core@6.0.0-6-next.4
+
 ## 6.0.0-6-next.9
 
 ### Minor Changes

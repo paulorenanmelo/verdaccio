@@ -1,5 +1,32 @@
 # @verdaccio/web
 
+## 6.0.0-6-next.22
+
+### Major Changes
+
+- 000d4374: feat: upgrade to material ui 5
+
+### Minor Changes
+
+- 24b9be02: refactor: improve docker image build with strict dependencies and prod build
+
+### Patch Changes
+
+- Updated dependencies [24b9be02]
+- Updated dependencies [e75c0a3b]
+- Updated dependencies [b13a3fef]
+  - @verdaccio/core@6.0.0-6-next.4
+  - @verdaccio/tarball@11.0.0-6-next.11
+  - @verdaccio/middleware@6.0.0-6-next.16
+  - @verdaccio/utils@6.0.0-6-next.10
+  - @verdaccio/logger@6.0.0-6-next.8
+  - @verdaccio/store@6.0.0-6-next.17
+  - @verdaccio/auth@6.0.0-6-next.16
+  - @verdaccio/config@6.0.0-6-next.12
+  - @verdaccio/url@11.0.0-6-next.8
+  - @verdaccio/loaders@6.0.0-6-next.8
+  - @verdaccio/readme@11.0.0-6-next.4
+
 ## 6.0.0-6-next.21
 
 ### Minor Changes
